@@ -1,2 +1,2 @@
-# CFD_class_project
+# CFD_coursework
 Quasi-one-dimensional nozzle flow
